@@ -87,7 +87,7 @@ save_previous_results = False
 # Use default location for the input and output data:
 # If no arguments to run.py are provided, this is where the data will be found
 # and the results written to. Change the root_dir to your local directory.
-root_dir = "../"
+root_dir = "C:/Users/alain_000/Downloads/Credit/credit/"
 default_input_dir = root_dir + "sample_regression_data"
 default_output_dir = root_dir + "sample_result_submission"
 default_program_dir = root_dir + "ingestion_program"
